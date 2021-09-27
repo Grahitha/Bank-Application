@@ -1,1 +1,1 @@
-Bank Application using c# . In this console application we are performing simple operations like withdraw, deposit , transfer , check balance and logout .
+Bank Application using c# . In this console application we are performing simple operations like withdraw, deposit , transfer , check balance and logout .It creates two files one stores amount for a paticular account and another stores the transaction log .
